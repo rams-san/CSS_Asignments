@@ -1,0 +1,35 @@
+
+form{
+    background-color: rgb(199, 199, 199);
+    text-align: center;
+    width: 350px;
+    height: 550px;
+    margin-left: 600px;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+.h1{
+    color: white;
+    background-color: green;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+input[type="submit"]{
+    background-color: green;
+    color: white;
+    width: 100px;
+    height: 20px;
+    text-transform: uppercase;
+}
+
+input[type="text"], input[type="email"], input[type="number"] ,input[type="password"]{
+    width: 250px;
+    height: 20px;
+}

@@ -1,0 +1,114 @@
+form{background-color: blue;
+        text-align: center;
+        width: 350px;
+        height: 100px
+        margin-top: 50px;
+        margin-left: 500px;
+}
+
+table{
+    width: 350px;
+    height: 100px
+}
+
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#t1{
+    text-align: center;
+}
+
+#lastName{body{
+    background-color: darkgray;
+    padding: 10px;
+}
+
+form{
+    margin-left: 550px;
+    margin-top: 150px;
+    border: 1px solid  rgb(12, 47, 58);
+    width: 400px;
+    height: 400px;
+    padding-top: 40px;
+    text-align: center;
+    background-color: rgb(12, 47, 58);
+    color: rgb(202, 197, 197);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#button1{
+    width:160px;
+    height:40px;
+    border: rgb(28, 179, 134);
+    text-align:center;
+    font-size:18px;
+    margin-top:10px;
+    background-color: rgb(28, 179, 134);
+    color: rgb(202, 197, 197);
+}
+
+#button2{
+    width:160px;
+    height:40px;
+    border: rgb(107, 155, 140);
+    text-align:center;
+    font-size:18px;
+    margin-top:10px;
+    background-color: rgb(107, 155, 140);
+    color: rgb(202, 197, 197);
+}
+
+input[type="text"]{
+    width:156px;
+    height:30px;
+    border:1px solid gray;
+    outline:none;
+    font-size:18px;
+    margin-top:10px;
+    background-color: rgb(12, 47, 58);
+}
+input[type="email"],input[type="password"]{
+    width:320px;
+    height:30px;
+    border:1px solid gray;
+    outline:none;
+    font-size:18px;
+    margin-top:10px;
+    background-color: rgb(12, 47, 58);
+}
+
+#button3{
+    width:320px;
+    height:40px;
+    border: rgb(28, 179, 134);
+    text-align:center;
+    font-size:18px;
+    margin-top:10px;
+    background-color: rgb(28, 179, 134);
+    color: rgb(202, 197, 197);
+}
+    margin-left:10px;
+}
+
+#firstName{
+    margin-right:10px;
+}
+
+input[type="email"] ,input[type="password"]{
+    width: 350px;
+    height: 20px;
+}
+
+#b3{
+    text-align: center;
+    width: 350px;
+    height: 20px;
+}
+
+#b1,#b2{
+    text-align: center;
+    width: 175px;
+    height: 20px;
+}
